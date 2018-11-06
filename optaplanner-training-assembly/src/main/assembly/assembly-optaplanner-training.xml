@@ -41,6 +41,10 @@
         <include>optaplanner-training-lab103/</include>
         <include>optaplanner-training-lab103-solution/</include>
         <include>optaplanner-training-lab901/</include>
+        <include>optaplanner-training-lab901-solution/</include>
+        <include>optaplanner-training-lab902/</include>
+        <include>optaplanner-training-lab902-solution/</include>
+        <include>optaplanner-training-lab903/</include>
       </includes>
       <excludes>
         <exclude>*/target/</exclude>
